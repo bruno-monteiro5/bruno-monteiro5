@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there
+
+# Student @ ISEP
 
 <!--
 **bruno-monteiro5/bruno-monteiro5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
